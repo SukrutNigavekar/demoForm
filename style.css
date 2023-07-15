@@ -1,0 +1,16 @@
+.container{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
+
+.form{
+    margin: 0 37.5%;
+    padding: 0;
+    width: 25%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
